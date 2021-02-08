@@ -35,6 +35,19 @@ main {
     margin: 30px auto;
 }
 
+p {
+    background-color: #47adf1;
+    color: white;
+    width: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    border-color: #47adf1;
+    border-radius: 3px;
+    padding: 5px;
+    margin-left: 30px;
+}
+
 hr .linea {
     color: tomato;
 }
@@ -42,6 +55,10 @@ hr .linea {
 ul {
     list-style-type: none;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.entity {
+    margin-left: 30px;
 }
 
 li .entity-spunta {
@@ -54,6 +71,8 @@ li .entity-spunta {
     display: inline-block;
     text-align: center;
     vertical-align: middle;
+    margin-top: 10px;
+    margin-left: 30px;
 }
 
 li .entity-x {
@@ -65,7 +84,8 @@ li .entity-x {
     border-radius: 50%;
     display: inline-block;
     text-align: center;
-    vertical-align: middle;
+    margin-top: 10px;
+    margin-left: 30px;
 }
 
 li h3 {
