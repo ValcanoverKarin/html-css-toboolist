@@ -42,9 +42,9 @@ ul {
 li .entity-spunta {
     color: #6cc4ae;
     font-size: 12px;
-    width: 20px;
-    height: 20px;
-    border: 2px solid #6cc4ae;
+    width: 17px;
+    height: 17px;
+    border: 1px solid #6cc4ae;
     border-radius: 50%;
     display: inline-block;
     text-align: center;
