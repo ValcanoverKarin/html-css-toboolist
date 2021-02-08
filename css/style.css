@@ -7,3 +7,14 @@
 body {
     background-color: #f6f8f9;
 }
+
+header {
+    background-color: white;
+    height: 100px;
+}
+
+main {
+    background-color: white;
+    width: 70%;
+    margin: 30px auto;
+}
