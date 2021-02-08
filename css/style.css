@@ -34,4 +34,8 @@ main {
     font-size: 28px;
 }
 
+ul {
+    list-style-type: none;
+}
+
 /*fine main*/
